@@ -1,6 +1,6 @@
 # 🧬 RNA-seq Analysis | Understanding Heart Disease Through Gene Expression
 
-### 🌐 [Explore My Live Project Website](https://vmadagiri.github.io/RNAseq-DCM-GeneExpression-Analysis/)
+### 🌐 [Explore My Live Project Website](https://vmadagiri.github.io/CardioSeq/)
 
 **R • Bioinformatics • Data Analysis • Data Visualization**
 
