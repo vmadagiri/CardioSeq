@@ -136,4 +136,4 @@ This project was completed at **Virginia Commonwealth University**.
 
 Want to see more of the analysis, visualizations and findings?
 
-### [✨ Visit My RNA-seq Project Website](https://vmadagiri.github.io/RNAseq-DCM-GeneExpression-Analysis/)
+### [✨ Visit My RNA-seq Project Website](https://vmadagiri.github.io/CardioSeq/)
