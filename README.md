@@ -1,5 +1,12 @@
 # RNAseq-DCM-GeneExpression-Analysis
 
+### 🌐 [Explore My Live RNA-seq Project](https://vmadagiri.github.io/RNAseq-DCM-GeneExpression-Analysis/)
+
+An analysis of real heart tissue data exploring how gene expression differs in dilated cardiomyopathy, including differences between male and female patients.
+
+**R • Bioinformatics • Data Visualization**
+
+
 ### RNA-seq Analysis using GSE141910
 
 Exploring gene expression differences in dilated cardiomyopathy (DCM) with a focus on sex-specific effects
